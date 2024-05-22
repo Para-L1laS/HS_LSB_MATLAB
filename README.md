@@ -1,1 +1,2 @@
 本程序是使用MATLAB实现的基于HS_LSB的信息隐写术。
+其中，hs_lsb_hide.m是信息隐写函数，hs_lsb_recovery.m是信息提取函数，test.m是测试函数，他通过调用以上两个函数来实现信息隐藏和提取。
